@@ -40,3 +40,5 @@ Options:
   -h, --help  Print help
 ```
 
+![area fzf](./imgs/area_fzf.png)
+
